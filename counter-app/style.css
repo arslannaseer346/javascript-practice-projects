@@ -19,14 +19,14 @@ body {
     border-radius: 15px;
     text-align: center;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
-    width: 300px;
+    width: 350px;
 }
 
 h1 {
     margin-bottom: 20px;
 }
 
-#counter {
+#count {
     font-size: 60px;
     margin: 20px 0;
     font-weight: bold;
