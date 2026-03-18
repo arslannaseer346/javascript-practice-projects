@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+
+    width: 100%;
+    background-color: rgb(177, 172, 172);
+}
+
+.container {
+    width: 400px;
+    background-color: rgb(67, 64, 64);
+    margin: 30px auto;
+    align-content: center;
+    align-items: center;
+    border-radius: 8px;
+    border: none;
+
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    color: white;
+}
+
+#city {
+    border-radius: 7px;
+    padding: 10px;
+    margin-top: 20px;
+
+}
+
+.bstyle {
+    border-radius: 7px;
+    padding: 10px;
+    margin-top: 20px;
+    box-shadow: 30px;
+    cursor: pointer;
+}
